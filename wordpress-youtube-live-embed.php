@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: YouTube Livestream Embed
+ * Plugin Name: Livestream Embed by YouTube Channel ID
  * Plugin URI: https://github.com/nmbgeek/wordpress-youtube-live-embed/
  * Description: Embed the current livestream from a YouTube channel using AJAX.
  * Version: 0.1
