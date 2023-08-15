@@ -1,9 +1,14 @@
 <?php
 /**
  * Plugin Name: YouTube Livestream Embed
+ * Plugin URI: https://github.com/nmbgeek/wordpress-youtube-live-embed/
  * Description: Embed the current livestream from a YouTube channel using AJAX.
  * Version: 0.1
- * Text Domain: youtube-livestream-embed
+ * Author: Clint Johnson
+ * Author URI: https://nmbgeek.com
+ * License: GPL-3.0
+ * License URI: https://www.gnu.org/licenses/gpl-3.0.txt
+ * Text Domain: wordpress-youtube-live-embed
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
