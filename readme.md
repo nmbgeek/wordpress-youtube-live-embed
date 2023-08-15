@@ -1,4 +1,4 @@
-# Youtube Live Stream Embed for WordPress
+# YouTube Live Stream Embed for WordPress
 
 1. Get a YouTube API Key by following the steps here: https://developers.google.com/youtube/v3/getting-started
 2. Install plugin and set your API Key on the settings page. Alternatively it can be defined in wp-config.php with `define('YOUTUBE_LIVESTREAM_API_KEY', 'YOUR_YOUTUBE_API_KEY_HERE');`
